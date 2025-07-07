@@ -3,7 +3,7 @@
 Air Force veteran transitioning into software engineering  
 Finishing my B.S. in Computer Science (Aug 2025)  
 Currently learning Python, Java, SQL, HTML/CSS  
-Looking for SkillBridge internships in backend, web, or cloud engineering
+
 
 ---
 
